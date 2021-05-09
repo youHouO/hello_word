@@ -1,0 +1,6 @@
+工地英语：
+i want kown the files out can push done?
+我的意思：
+我想知道文件在远程仓库外可以push成功吗？
+网路翻译：
+I want to know whether the file can be pushed successfully outside the remote warehouse?
